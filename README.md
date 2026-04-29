@@ -14,7 +14,7 @@ My background in **Social Sciences** instilled a deep love for analysis. I belie
 
 ## 🛠️ What I'm Working On
 * 📊 **Mastered:** Product Roadmap & Stakeholder Management
-* 🏗️ **Learning:** Data Analysis & Visualization (SQL, Python, Tableau)
+* 🏗️ **Learning:** Data Analysis & Visualization (SQL, Python, Power-BI)
 * 🚢 **Goal:** Leading high-scale Data Projects
 
 ## ⚡ Quick Bio
